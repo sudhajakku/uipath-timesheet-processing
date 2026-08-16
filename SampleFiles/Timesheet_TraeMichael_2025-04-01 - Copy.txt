@@ -1,0 +1,5 @@
+Employee Name: Trae Michael
+Employee ID: 32489
+Week Starting: 01-Apr-2025
+Hours Worked: 32
+Department: HR

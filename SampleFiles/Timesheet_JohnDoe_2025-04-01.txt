@@ -1,0 +1,5 @@
+Employee Name: John Doe
+Employee ID: 12345
+Week Starting: 01-Apr-2025
+Hours Worked: 38
+Department: IT

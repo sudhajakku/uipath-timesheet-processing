@@ -427,3 +427,43 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+# ==========================================
+# UiPath
+# ==========================================
+
+# UiPath local/user-specific files
+**/.local/
+**/.settings/
+**/.objects/
+**/.screenshots/
+
+# UiPath generated packages/output
+**/.output/
+**/output/
+**/*.nupkg
+
+# Temporary/backup files
+**/*.tmp
+**/*.bak
+**/~$*
+
+# Dispatcher runtime input
+Timesheet_Dispatcher/Input/*
+!Timesheet_Dispatcher/Input/.gitkeep
+# UiPath generated/local files
+**/.local/
+**/.settings/
+**/.objects/
+**/.screenshots/
+**/.tmp/
+**/.project/
+
+# UiPath generated packages/output
+**/.output/
+**/output/
+**/*.nupkg
+**/Main.zip
+
+# Dispatcher runtime input
+Timesheet_Dispatcher/Input/*
+!Timesheet_Dispatcher/Input/.gitkeep
