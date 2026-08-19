@@ -467,3 +467,8 @@ Timesheet_Dispatcher/Input/*
 # Dispatcher runtime input
 Timesheet_Dispatcher/Input/*
 !Timesheet_Dispatcher/Input/.gitkeep
+
+# UiPath runtime/generated files
+**/.tmh/
+**/Exceptions_Screenshots/
+**/Data/Temp/
